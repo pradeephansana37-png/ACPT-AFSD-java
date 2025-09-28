@@ -40,5 +40,7 @@ public class Project02 {
 
 
         System.out.println("Total tax value is : " + (tax1+tax2+tax3+tax4));
+
+        System.out.println("feat example-03");
     }
 }
