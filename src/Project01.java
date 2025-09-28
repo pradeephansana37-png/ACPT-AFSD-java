@@ -20,6 +20,9 @@ public class Project01 {
 
         System.out.println("Average is : "+(salary1+salary2+salary3+salary4)/4);
 
+
+        System.out.println("commit-02");
+
     }
 
 
